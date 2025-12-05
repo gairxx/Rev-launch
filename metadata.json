@@ -1,0 +1,8 @@
+{
+  "name": "Revo - AI Master Technician",
+  "description": "A voice-activated automotive technician with deep knowledge of specific vehicle makes, models, TSBs, and repair procedures.",
+  "requestFramePermissions": [
+    "microphone",
+    "bluetooth"
+  ]
+}
